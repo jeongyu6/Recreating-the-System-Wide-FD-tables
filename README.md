@@ -1,6 +1,7 @@
 TITLE -- CSCB09 Assignment 2
 
 **1. Metadata**
+
 Author: Jeong Yuseon
 Date: March 7, 2025
 
